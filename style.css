@@ -1,0 +1,19 @@
+body {
+    background: #f7f7f7;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+.table-hover tbody tr:hover {
+    background: #f0f0f0;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+form input {
+    border-radius: 6px;
+}
